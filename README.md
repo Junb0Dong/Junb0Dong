@@ -6,8 +6,12 @@
 
 <br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
+💬 Welcome to talk with me [junbodong@qq.com](mailto:junbodong@qq.com)
 
 ### 💼  Things that I'm currently working on: 
 * Imitation learning
 * Diffusion policy
 * Robot arm
+
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
