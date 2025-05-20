@@ -11,6 +11,3 @@
 * Diffusion Policy
 * Robot Arm
 * Reinforcement Learning
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Junb0Dong)](https://github.com/ashutosh00710/github-readme-activity-graph)
